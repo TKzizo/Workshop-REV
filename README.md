@@ -11,7 +11,7 @@ You may find the presentation in this [link](https://drive.google.com/file/d/1YR
 >## Nightmare 
 Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. It's called that because it's a lot of people's nightmare to get hit by weaponized 0 days, which these skills directly translate into doing that type of work. [Nightmare](https://guyinatuxedo.github.io/)
 
-![Nightmare](images/Nightmare.png)
+![Nightmare](images/Nighmare.png)
 
 
 >## Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
