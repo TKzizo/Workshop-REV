@@ -1,6 +1,6 @@
 ># Reverse Engineering Workshop
 
-This workshop was an introduction to the vast world of reverse engineering, where we have discussed the usefullness of this skill, and some of the domaines where we use it essentialy in binary exploitaion and malware analysis.
+This workshop was an introduction to the vast world of reverse engineering, where we have discussed the usefullness of this skill, and some of the domaines where we use it, essentialy in binary exploitation and malware analysis.
 
 >## Presentation 
 You may find the presentation in this [link](https://drive.google.com/file/d/1YRF_8nWtwT4Lcym2GbGvnVcTrEPEx7M4/view?usp=sharing).
@@ -30,4 +30,4 @@ This course was made by [RIPSEC CLUB](https://rpis.ec/) from the [Rensselaer Pol
 
 
 >## Conclusion
-Reverse engineering is not a skill that can't be gained overnight, it needs dedication and hard work, so don't get demotivated if you get stuck somewhere because we all been there many many many times, cause getting stuck means that you still have room for improvement and growth, so keep trying and failling cause through failure you learn and may even stumbel upon something new that no-one have seen before.
+Reverse engineering is not a skill that can be gained overnight, it needs dedication and hard work, so don't get demotivated if you get stuck somewhere because we all heve been there many many many times, and remember getting stuck means that you still have room for improvement and growth, so keep trying and failling cause through failure you learn and may even stumbel upon something new that no-one have seen before.
